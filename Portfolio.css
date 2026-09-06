@@ -319,19 +319,6 @@ body {
     margin-top: 60px;
 }
 
-.footer-banner {
-    width: 100%;
-    height: 70vh;
-    overflow: hidden;
-}
-
-.footer-banner img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    display: block;
-}
-
 .footer-content {
     padding: 30px 20px;
 }
